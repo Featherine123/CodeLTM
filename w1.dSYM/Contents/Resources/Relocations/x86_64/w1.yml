@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/macbookpro/Desktop/LT_MMT/w1'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _Register, symObjAddr: 0x0, symBinAddr: 0x100003D40, symSize: 0x20 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _Register, symObjAddr: 0x0, symBinAddr: 0x100003D40, symSize: 0x20 }
+  - { offsetInCU: 0x56, offset: 0x56, size: 0x8, addend: 0x0, symName: _Signin, symObjAddr: 0x20, symBinAddr: 0x100003D60, symSize: 0x20 }
+  - { offsetInCU: 0x6B, offset: 0x6B, size: 0x8, addend: 0x0, symName: _Search, symObjAddr: 0x40, symBinAddr: 0x100003D80, symSize: 0x20 }
+  - { offsetInCU: 0x80, offset: 0x80, size: 0x8, addend: 0x0, symName: _Signout, symObjAddr: 0x60, symBinAddr: 0x100003DA0, symSize: 0x20 }
+  - { offsetInCU: 0x95, offset: 0x95, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x80, symBinAddr: 0x100003DC0, symSize: 0x110 }
+...
